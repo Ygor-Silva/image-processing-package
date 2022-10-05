@@ -1,10 +1,10 @@
-# Projeto: Pacote de Processamento de Imagens
+# Projeto: Pacote de Processamento de Imagens 🌆
 
 ### Aula: Coding Lab PRO - Digital Innovation One
 
 [(clique aqui para ver o meu perfil na plataforma)](https://web.dio.me/users/ygor-1996?tab=achievements)
 
-#### Tecnologia: Python
+#### Tecnologia: Python 🐍
 
 #### Data: 04/10/2022
 
@@ -28,7 +28,7 @@ O pacote "image_processing-test" é usado para:
 
 ---------------------------------------------
 
-## Passo a passo da configuração para hospedar um pacote em Python no ambiente de testes Test Pypi
+## Passo a passo da configuração para hospedar um pacote em Python no ambiente de testes Test Pypi 📂⚠
 
 - [x] Instalação das últimas versões de "setuptools" e "wheel"
 
@@ -61,7 +61,7 @@ py -m twine upload --repository testpypi dist/*
 
 ----------------------------------------------------
 
-## Instalação local, após hospedagem no Test Pypi
+## Instalação local, após hospedagem no Test Pypi 📂
 
 - [x] Instalação de dependências
 
@@ -79,7 +79,7 @@ pip install image-processing-test
 
 -------------------------------------------------
 
-## Como usar em qualquer projeto
+## Como usar em qualquer projeto 🚧
 
 ```python
 from image-processing-test.processing import combination
