@@ -86,7 +86,8 @@ from image-processing-test.processing import combination
 combination.find_difference(image1, image2)
 ```
 
-<img width="auto" src="https://github.com/HenriqueMAP/image-processing-package/blob/master/image-processing-test.png?raw=true">
+<img width="auto" src="https://github.com/Ygor-Silva/
+image-processing-package/blob/master/img-captura.png?raw=true">
 
 ## Autor (quem hospedou o projeto no Test Pypi)
 
